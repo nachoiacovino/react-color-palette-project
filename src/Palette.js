@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import ColorBox from './ColorBox'
-// import ColorBox2 from './ColorBox2'
 import './Palette.css'
 
 export default class Palette extends Component {
